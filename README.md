@@ -5,10 +5,17 @@ For support, please submit a pull request or issue depending on what you need. C
 
 # Categories
 Feature Requests- Pull Requests
+
 Documentation/Policy Changes- Pull Requests
+
 Bug Reports- Issues or in-game support system
+
 Applications- Pull Requests
+
 Questions- Issues
+
 Complaints- Issues
+
 Feature Removal or Editing Requests- Pull Requests
+
 Vulnerabilities- Issues
